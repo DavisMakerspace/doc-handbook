@@ -1,0 +1,41 @@
+\documentclass[letterpaper,11pt]{memoir}
+
+\usepackage{times}
+%\usepackage{titlesec}
+%\usepackage{fancyhdr}
+\usepackage{parskip}
+
+\usepackage[usenames,dvipsnames]{color}
+\definecolor{DarkGray}{gray}{0.15}
+
+\usepackage{graphicx}
+\usepackage[pdfpagelabels,
+      pagebackref,
+      colorlinks=true,
+      urlcolor=DarkGray,
+      linkcolor=blue,
+      citecolor=DarkGray,
+      plainpages=false,
+      pdftitle={\mytitle},
+      pdfauthor={\myauthor},
+      pdfproducer={pdfLaTeX},
+      plainpages=false,
+      pdfpagemode=None]{hyperref}
+
+\title{\huge\mytitle}
+%\author{\vspace{2em}{\includegraphics{tex/dms}}\vspace{2em}}
+\date{\mydate}
+
+\begin{document}
+
+%\titleformat{\section}[hang]{\vspace{1em}\bfseries\uppercase}{\hspace{-1.2in}\makebox[1.2in]{ARTICLE~~\thesection\hfill}}{0pt}{\uppercase}
+%\titleformat{\subsection}[hang]{\vspace{.5em}\bfseries}{\hspace{-1.2in}\makebox[1.2in]{Section~~\thesubsection\hfill}}{0pt}{}
+%\titleformat{\subsubsection}[hang]{\vspace{.5em}\bfseries}{\hspace{-1.2in}\makebox[1.2in]{~~---~~\thesubsubsection\hfill}}{0pt}{}
+
+\maketitle
+\newpage
+\pagenumbering{roman}
+\tableofcontents
+\newpage
+\setcounter{page}{1}
+\pagenumbering{arabic}
