@@ -15,13 +15,21 @@ LaTeX input       : tex/mmd-template-handbook
 1. Be conciderate to others.
 1. Clean up after yourself.
 
-*Note: Commandments are enumerated in Base-4*
+_Note: Commandments are enumerated in Base-4_
 
 # Open Hours #
 
-## Day Manager  ##
+**Open Hours** are times when the space is open to the public.  The **Manager** is responsible for the space and is in charge of keeping the space clean and safe.  The space should never be left open without an active **Manager**.
+
+## Manager  ##
+
+Whoever unlocks and opens the door to the public is the **Manager**.  The **Manager** must ensure that users of the space have signed a liability waiver, help keep the space clean and safe, and oversee the general operations of the space.
+
+If the **Manager** must leave the space at any time, the **Manager** must either pass the manager role to another person who is capable of holding **Open Hours** or ask everyone to leave the space.  _At no time may people be in the space without an active **Manager** overseeing operations._
 
 ## Expelling people from the space ##
+
+If the **Manager** feels that any person is acting in an unsafe or unrespectable way, the **Manager** may ask that person to leave.  Access to the space and its resources is contigent on the approval of the active **Manager**.
 
 # Minors #
 
