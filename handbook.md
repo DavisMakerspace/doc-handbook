@@ -12,7 +12,7 @@ LaTeX input       : tex/mmd-template-handbook
 
 1. If you mess up, fess up.
 1. Always return the bathroom key.
-1. Be conciderate to others.
+1. Be considerate to others.
 1. Clean up after yourself.
 
 _Note: Commandments are enumerated in Base-4_
@@ -29,9 +29,13 @@ If the **Manager** must leave the space at any time, the **Manager** must either
 
 ## Expelling people from the space ##
 
-If the **Manager** feels that any person is acting in an unsafe or unrespectable way, the **Manager** may ask that person to leave.  Access to the space and its resources is contigent on the approval of the active **Manager**.
+If the **Manager** feels that any person is acting in an unsafe or unrespectable way, the **Manager** may ask that person to leave.  Access to the space and its resources is contingent on the approval of the active **Manager**.
 
 # Minors #
+
+No minors under the age of 14 may use the space or its resources without the presence of a parent or legal guardian.
+
+Minors between the ages of 14 and 18 must have a liability waiver signed by a parent or legal guardian in order to use the space or its resources.  The active **Manager** may choose to require that a supervisor or chaperone accompany the minor while accessing the space.  Such decision is fully at the discretion of the active **Manager**.  If the active **Manager** passes the manager role to another person, the new active **Manager** may change the requirement.
 
 # Donations #
 
