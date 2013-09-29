@@ -47,6 +47,16 @@ Minors between the ages of 14 and 18 must have a liability waiver signed by a pa
 
 # Key Access #
 
+A few different approaches for granting key access have already been proposed. Below is a short list of these ideas. If you have more ideas, please add them!
+
+* *Sponsorship Model* - A system where existing key holding members would sponsor new key holders (and potentially take responsibility for any issues that might arise if a key-holdership went awry).
+
+* *Fee Model* - Potential key holding members could make monetary donations to the space in effort to build trust and accountability. This was essentially the model we removed from our bylaws in June to help conform our our organization to needs of the State Non-Profit Application. Portions of this model to potentially be revived, as long as it is not creating an exclusive class of members, (i.e. creating a pay-to-play arrangement). If implemented in combination with other means of gaining key-holdership, we would probably still comply with the State requirements for non-profit status.
+
+* *Volunteer Work Model* - Key-holdership could be granted if potential key-holders commit to volunteer tasks. Tasks might include: holding open hours, managing a donations program, maintaining a tools or materials database, or other such task.
+
+* *Combination of Models* - Any of the above models could be combined to create a multi-pronged approach to key-holdership.
+
 ## Physical Keys ##
 
 ## Digital Keys ##
