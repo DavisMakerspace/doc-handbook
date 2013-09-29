@@ -53,3 +53,9 @@ Minors between the ages of 14 and 18 must have a liability waiver signed by a pa
 
 ## Key Revocation ##
 
+Our key-access policy should also include a means for revoking key access when needed. Some suggestions are included below. Please add more ideas if you have any!
+
+* Discontinuation of regular donations
+* Discontinuation of regular volunteer activities
+* Significant violation of DMS rules or policies
+* Voting
