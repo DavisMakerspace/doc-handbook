@@ -21,6 +21,8 @@ _Note: Commandments are enumerated in Base-4_
 
 **Open Hours** are times when the space is open to the public.  The **Manager** is responsible for the space and is in charge of keeping the space clean and safe.  The space should never be left open without an active **Manager**.
 
+People should sign a liability waiver (application form) in order to use the space or its resources.  The **Manager** should check that the application form is on file.
+
 ## Manager  ##
 
 Whoever unlocks and opens the door to the public is the **Manager**.  The **Manager** must ensure that users of the space have signed a liability waiver, help keep the space clean and safe, and oversee the general operations of the space.
