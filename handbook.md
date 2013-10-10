@@ -17,6 +17,10 @@ LaTeX input       : tex/mmd-template-handbook
 
 _Note: Commandments are enumerated in Base-4_
 
+## Mission Statement ##
+
+The specific purpose of this corporation is to promote, support, and advance technical, scientific, and artistic skills, innovation, and invention through individual and collaborative projects, community building, tool and resource access, education, and mentorship. Towards this purpose the corporation shall engage in charitable, scientific, and educational activities within the meaning of Section 501(c)(3) of the Internal Revenue Code.
+
 # Open Hours #
 
 **Open Hours** are times when the space is open to the public.  The **Manager** is responsible for the space and is in charge of keeping the space clean and safe.  The space should never be left open without an active **Manager**.
